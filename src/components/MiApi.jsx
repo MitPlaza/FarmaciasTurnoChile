@@ -42,7 +42,7 @@ const MiApi = ({search, regionFilter}) => {
 <div>
 
 {loading ? (
-        <h3 className='cargando'>Cargando Datos de farnacias...por favor espere</h3>
+        <h3 className='cargando'>Cargando Datos...por favor espere</h3>
       ) : (
     <Table striped bordered hover variant="dark">
       <thead>
