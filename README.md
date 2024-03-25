@@ -9,5 +9,10 @@ Currently, two official plugins are available:
 
 Desarrollo de api para desafio latam
 
+Video explicativo en youtube
+https://www.youtube.com/watch?v=79m4KO-NLko
+
+
+
 subí el desarrollo a netlify pero por alguna razon no muestra el logo
 https://farmaciasdeturnoenchile.netlify.app/
